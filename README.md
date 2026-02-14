@@ -1,3 +1,8 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RITHICK&label=Profile%20views&color=0e75b6&style=flat" alt="RITHICK" /> <a href="https://deekshith0803.github.io/portfolio-/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rithicks-projects-9c5c9304.vercel.app/"/></a> </p>
+ 
+ <img src="./header.png">
+ 
+<div align="center">
 <h1 align="center" style="color:#4ade80;">Hi, I'm Aswanth 👋</h1>
 
 <p align="center" style="color:#facc15;">
@@ -12,7 +17,7 @@
 
 <div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 🧠 About Me
+ 🧠 About Me
 </div>
 
 I’m a **full-stack developer** with equal focus on **frontend and backend engineering**.  
@@ -24,10 +29,10 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 <div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 </div>
 
-### 🚀 Frontend / MERN
+🚀 Frontend / MERN
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,gsap&theme=dark" style="transition: transform 0.3s;" 
@@ -35,7 +40,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
        onmouseout="this.style.transform='scale(1)'" />
 </p>
 
-### 🧩 Backend / Tools
+ 🧩 Backend / Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,github,linux&theme=dark" style="transition: transform 0.3s;" 
@@ -43,7 +48,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
        onmouseout="this.style.transform='scale(1)'" />
 </p>
 
-### 🧠 Programming Languages
+🧠 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" style="transition: transform 0.3s;" 
@@ -55,7 +60,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 <div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 </div>
 
 <p align="center">
@@ -67,7 +72,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 <div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 🧩 What I Work On
+🧩 What I Work On
 </div>
 
 - Full-stack MERN applications  
@@ -81,7 +86,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 <div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 📚 Learning & Growth
+ 📚 Learning & Growth
 </div>
 
 - Advanced backend patterns  
@@ -93,7 +98,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 <div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-## 🤝 Let’s Connect
+ 🤝 Let’s Connect
 </div>
 
 <p align="center">
