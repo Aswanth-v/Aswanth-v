@@ -1,24 +1,26 @@
- <p align="left">  <a href="https://aswanthv.netlify.app/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rithicks-projects-9c5c9304.vercel.app/"/></a> </p>
- 
- <img src="./header.png">
- 
-<div align="center">
-<h1 align="center" style="color:#4ade80;">Hi, I'm Aswanth 👋</h1>
+<!-- DARK ELITE HEADER -->
 
-<p align="center" style="color:#facc15;">
-  Full-Stack Developer | MERN Stack | Problem Solver
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3441,100:4b5563&height=220&section=header&text=ASWANTH&fontSize=45&fontColor=00F5A0&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aswanth-v-reset&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F5A0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aswanth+👋;Full-Stack+Developer+%7C+MERN+Stack;Problem+Solver" />
+</p>
+
+<p align="center">
+  <a href="https://aswanthv.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-0b0f19?style=for-the-badge&logo=google-chrome&logoColor=00F5A0" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aswanth-v-reset&label=Profile+Views&color=00F5A0&style=flat" />
 </p>
 
 ---
 
-<div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
- 🧠 About Me
-</div>
+## 🧠 About Me
 
 I’m a **full-stack developer** with equal focus on **frontend and backend engineering**.  
 My core stack is **JavaScript (MERN)**, backed by strong fundamentals in **C, C++, Java, and Python**.
@@ -27,53 +29,37 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 ---
 
-<div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
- 🛠️ Tech Stack
-</div>
+## 🛠️ Tech Stack
 
-🚀 Frontend / MERN
+### 🚀 Frontend / MERN
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,gsap&theme=dark" style="transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,gsap&theme=dark" />
 </p>
 
- 🧩 Backend / Tools
+### 🧩 Backend / Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,github,linux&theme=dark" style="transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,github,linux&theme=dark" />
 </p>
 
-🧠 Programming Languages
+### 🧠 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" style="transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
 </p>
 
 ---
 
-<div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
- 📊 GitHub Stats
-</div>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswanth-v&show_icons=true&hide_border=true&theme=react" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswanth-v&hide_border=true&theme=react" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswanth-v&hide_border=true&background=0b0f19&ring=00D9FF&fire=00F5A0&currStreakLabel=ffffff&currStreakNum=00F5A0&sideLabels=ffffff&sideNums=ffffff&dates=9ca3af" height="170"/>
 </p>
 
 ---
 
-<div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-🧩 What I Work On
-</div>
+## 🧩 What I Work On
 
 - Full-stack MERN applications  
 - Authentication & authorization systems  
@@ -84,10 +70,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 ---
 
-<div style="background-color:#1f2937; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
- 📚 Learning & Growth
-</div>
+## 📚 Learning & Growth
 
 - Advanced backend patterns  
 - Scalable system design  
@@ -96,10 +79,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 
 ---
 
-<div style="background-color:#111827; border-radius:8px; padding:10px; margin-bottom:15px; transition: transform 0.3s;" 
-     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
- 🤝 Let’s Connect
-</div>
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aswanth-v">
@@ -113,5 +93,9 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 ---
 
 <p align="center">
-  <i>Focused on building, learning, and improving — one project at a time.</i>
+  <i style="color:#00F5A0;">Focused on building, learning, and improving — one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:2a3441&height=120&section=footer"/>
 </p>
