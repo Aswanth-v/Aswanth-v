@@ -73,7 +73,7 @@ I enjoy building **real-world systems**, writing **clean APIs**, managing **data
 ## 📚 Learning & Growth
 
 - Advanced backend patterns  
-- Scalable system design  
+- Scalable system designs 
 - Clean code & maintainability  
 - Production-ready MERN workflows  
 
